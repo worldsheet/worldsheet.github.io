@@ -160,3 +160,7 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+.bottom_buttons[disabled] {
+  opacity: .4;
+}
