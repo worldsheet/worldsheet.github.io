@@ -4,8 +4,12 @@ body {
 
 
 .footer a {
-    font-size: 25px;
+    /*font-size: 25px;*/
     color: #000;
+}
+
+.large-font {
+    font-size: 25px;
 }
 
 .link-block a {
